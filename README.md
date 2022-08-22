@@ -3,7 +3,7 @@
 </p>
 <h2 align="center"> - Custom Açaí -</h2>
 <p align="center">
-<a href="https://custom-acai.netlify.app/" target="_blank">👉 Acesse a página aqui 👈</a>
+<a href="https://pecaseuacai.vercel.app/" target="_blank">👉 Acesse a página aqui 👈</a>
 </p>
 <hr>
 
@@ -62,9 +62,6 @@ Sem dúvidas o melhor projeto do portifólio!!<br>Se trata de uma página de uma
 <p>Sinta-se livre para entrar em contato comigo, seja para dar algum feedback do projeto, pedir alguma ajuda ou também apenas conversar um pouco sobre desenvolvimento e tecnologias =D</p>
 <br>
 <div> 
-  <a href = "mailto:gabrecrisanto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank</a>
-  
-  <a href="https://api.whatsapp.com/send?phone=5541984818428" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/gabriel-crisanto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/GabeCris" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/alissonandrade2020" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   </div>
